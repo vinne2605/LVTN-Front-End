@@ -1,3 +1,20 @@
+ĐỂ XEM CÁCH HOẠT ĐỘNG CỦA SOURCE NEXTJS THÌ ANH COI SƠ QUA CÁI TUTORIAL TUI GỬI, XEM XÍU LÀ ĐƯỢC À
+
+chạy code
+npm run dev
+
+-------CẤU TRÚC FILE CỦA DỰ ÁN-------
+node_modules: thư viện
+public: ảnh, css
+src: source code tại đây
+
+
+CÀI BOOTSTRAP
+npm i --save-exact react-bootstrap@2.8.0 bootstrap@5.3.0
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
